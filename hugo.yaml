@@ -1,4 +1,4 @@
-baseURL: 
+baseURL: "https://junkuse2021.github.io/flightman.me-demo/"
 languageCode: en-us
 title: My New Hugo Site
 theme: PaperMod
